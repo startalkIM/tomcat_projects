@@ -4,7 +4,7 @@ This is a repo for unzipped and after compiling Startalk Java services including
 + [push_service](https://github.com/startalkIM/push_service)
 + [im_http_service](https://github.com/startalkIM/im_http_service)
 
-~~and a unpackaged tomcat v8.5.37 .  
+~~and a unpackaged tomcat v8.5.37 .  ~~  
 
 These three services are obligatory for running Startalk properly. Each service exists at a independent tomcat and occupies different
 ports. Check their project repo mentioned above for more details.  
